@@ -29,8 +29,6 @@ if ($handler) {
 	exit();
 }
 
-?>
-
 <!DOCTYPE html>
 <html>
 	<head>
@@ -309,3 +307,7 @@ if ($handler) {
 		<script src="/tl-validator.js?country=de&label=true"></script>
 	</body>
 </html>
+
+
+?>
+
