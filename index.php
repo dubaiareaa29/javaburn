@@ -10,7 +10,7 @@ require 'leadcloak-16rux3dxej30.php';
 // Configuration
 
 // Set this to false if application is properly installed.
-$enableDebugging = false;
+$enableDebugging = true;
 
 // Set this to false if you won't want to log error messages
 $enableLogging = true;
