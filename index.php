@@ -4,7 +4,7 @@
  * Created: 2022-02-23 19:55:33 UTC
  */
 
-require 'leadcloak-16rux3dxej30.php';
+require '/leadcloak-16rux3dxej30.php';
 
 // ---------------------------------------------------
 // Configuration
