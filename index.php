@@ -9,8 +9,20 @@
 		<link rel="stylesheet" href="css/normalize.css">
 		<link rel="stylesheet" href="css/main.css">
 	<script type="text/javascript" src="script_land.js" defer></script>
-<!-- Global site tag (gtag.js) - Google Ads: 10864416135 --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-10864416135"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-10864416135'); </script> 
-	<!-- Event snippet for Website traffic conversion page --> <script> gtag('event', 'conversion', {'send_to': 'AW-10864416135/AvJ8CNjphKcDEIerx7wo'}); </script> 
+<!-- Global site tag (gtag.js) - Google Ads: 10864416135 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10864416135"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-10864416135');
+</script>
+
+<!-- Event snippet for Website traffic (1) conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-10864416135/7t8gCL6ih6cDEIerx7wo'});
+</script>
 	
 	</head>
 	<body>
