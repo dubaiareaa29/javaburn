@@ -11,7 +11,6 @@
 	<script type="text/javascript" src="script_land.js" defer></script>
  <script type="text/javascript" src="16vjhom50cdi.js"></script> 		
 		
-		
 	</head>
 	<body>
 		<div class="wrapper">
